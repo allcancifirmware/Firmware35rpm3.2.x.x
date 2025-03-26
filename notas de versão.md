@@ -1,4 +1,4 @@
-## Firmware FILL 35 RPM
+## FOWIFI3 35 RPM
 **Versão Atual:** 3.2.0.8
 
 ## 📌 Descrição
