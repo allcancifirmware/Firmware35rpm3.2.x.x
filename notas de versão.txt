@@ -1,9 +1,16 @@
-//VERSÃO 3.2.0.8 manda localização no campo adaptações, Envio de dados pra outra base reserva
+//VERSÃO 3.2.0.9 manda localização no campo adaptações, Envio de dados pra outra base reserva.
+
+////VERSÃO 3.2.0.8 ajuste de dosagem de 6.5 para 5.8 | ajuste padrao de dosagem em 1450
+
 //VERSÃO 3.2.0.7 Atualização via cabo de rede pelo servidor hostinger no intervalo entre 11h e 12h, muda sinal de conexao com cabo, não trava no wifi manager,
+
 //menu de checagem wifi e rj45, confirma atualização de tempo de dosagem, correção erro de salvar dosagem vermelha.
+
 //VERSÃO 3.2.0.6 recuo lento no inicio, Muda ns rápido, Apaga da memória redes wifi salvas e wifi começa ativo, Atualização automático as 12:00
+
 //VERSÃO 3.2.0.5 altera contadores
-//VERSÃO 3.2.0.4 ativa ou desativa wifi e mostra mac
+
+//VERSÃO 3.2.0.4 ativa ou desativa wifi e mostra mac.
+
 //VERSÃO 3.2.0.3 wifi manager com ns no final do nome da rede, atualização via menu e confirmação, contador apenas total, mistura 2x ao dia.
-//rj45 menu para baixar atualização
-// ajuste de dosagem de 6.5 para 5.8 | ajuste padrao de dosagem em 1450
+//rj45 menu para baixar atualização.
