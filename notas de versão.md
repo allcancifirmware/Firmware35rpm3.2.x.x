@@ -13,6 +13,7 @@
 ### 🔧 Versão 3.2.0.8
 - Ajuste de dosagem de 6.5 para 5.8
 - Padronização de dosagem em 1450
+- mistura de 8 em 8 horas
 
 ### ⚡ Versão 3.2.0.7
 - Atualização via cabo de rede pelo servidor hostinger (entre 11h e 12h)
