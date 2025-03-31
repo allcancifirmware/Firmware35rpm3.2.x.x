@@ -12,7 +12,8 @@
 
 ### 🔧 Versão 3.2.0.8
 - Ajuste de dosagem de 6.5 para 5.8
-- Padronização de dosagem em 1450
+- 1° Padronização de dosagem em 1450
+- 2° Padronização de dosagem em 1475
 - mistura de 8 em 8 horas
 
 ### ⚡ Versão 3.2.0.7
