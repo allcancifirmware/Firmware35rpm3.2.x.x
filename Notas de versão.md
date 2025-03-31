@@ -15,6 +15,7 @@
 - 1° Padronização de dosagem em 1450
 - 2° Padronização de dosagem em 1475
 - mistura de 8 em 8 horas
+- Ajuste da fração de regulagem do motor para 25
 
 ### ⚡ Versão 3.2.0.7
 - Atualização via cabo de rede pelo servidor hostinger (entre 11h e 12h)
