@@ -7,7 +7,7 @@
 ## 📋 Changelog
 
 ### 🔄 Versão 3.2.0.9
-- Envio da localização no campo "adaptações"
+- Envio da localização no campo "ID"
 - Implementação de envio de dados para uma base reserva
 
 ### 🔧 Versão 3.2.0.8
