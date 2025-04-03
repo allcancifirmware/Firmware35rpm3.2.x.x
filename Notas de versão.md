@@ -1,14 +1,23 @@
 ## FOWIFI3 35 RPM
-**Versão Atual:** 3.2.0.8
+**Versão Atual:** 3.2.0.9
 
 ## 📌 Descrição
 [a definir]
 
 ## 📋 Changelog
 
+### 🔄 Versão 3.2.0.10
+- Envio de localização através do wifi para a awsiot
+
 ### 🔄 Versão 3.2.0.9
 - Envio da localização no campo "ID"
 - Implementação de envio de dados para uma base reserva
+- correção nivel critico
+- na função de limpeza apertar proximo depois do vermelho retorna
+- Apertar dois botoes juntos além do tempo  pra alterar algo
+- Melhoraria alteração de dosagem.
+- Eliminar travamento com repetidor ruim.
+- Mostrar o status real do cabo de rede
 
 ### 🔧 Versão 3.2.0.8
 - Ajuste de dosagem de 6.5 para 5.8
