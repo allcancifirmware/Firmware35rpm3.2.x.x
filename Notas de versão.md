@@ -8,6 +8,7 @@
 
 ### 🔄 Versão 3.2.0.10
 - Envio de localização através do wifi para a awsiot
+- Envio de dados para aws com ethernet conectado
 
 ### 🔄 Versão 3.2.0.9
 - Envio da localização no campo "ID"
