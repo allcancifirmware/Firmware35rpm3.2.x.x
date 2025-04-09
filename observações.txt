@@ -1,0 +1,5 @@
+Atualização de firmware via ethernet
+- Gerar o arquivo binário
+- Ler o tamanho do arquivo em bytes com um script python
+- setar o tamanho do arquivo no arquivo firmware.php
+- setar o tamanho do arquivo no código.
