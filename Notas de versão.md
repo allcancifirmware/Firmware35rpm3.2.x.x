@@ -16,7 +16,7 @@
 
 ### 🔄 Versão 3.2.0.9
 - Envio da localização no campo "ID"
-- Implementação de envio de dados para uma base reserva
+- Implementação de envio de dados para uma base reserva ( obsoleto )
 - correção nivel critico
 - na função de limpeza apertar proximo depois do vermelho retorna
 - Apertar dois botoes juntos além do tempo  pra alterar algo
