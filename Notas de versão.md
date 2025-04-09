@@ -5,6 +5,10 @@
 [a definir]
 
 ## 📋 Changelog
+### 🔄 Versão 3.2.0.11
+- Atualização OTA via internet cabeada ( Ethernet )
+- Envio do tipo de conexão se Wifi ou Cabo Ethernet
+- Barra de carregamento da atualização.
 
 ### 🔄 Versão 3.2.0.10
 - Envio de localização através do wifi para a awsiot
