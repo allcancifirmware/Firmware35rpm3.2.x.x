@@ -9,6 +9,7 @@
 - Atualização OTA via internet cabeada ( Ethernet )
 - Envio do tipo de conexão se Wifi ou Cabo Ethernet
 - Barra de carregamento da atualização.
+- Interrupção imadiata no meio do recruo extra
 
 ### 🔄 Versão 3.2.0.10
 - Envio de localização através do wifi para a awsiot
