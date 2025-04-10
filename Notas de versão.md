@@ -10,6 +10,8 @@
 - Envio do tipo de conexão se Wifi ou Cabo Ethernet
 - Barra de carregamento da atualização.
 - Interrupção imadiata no meio do recruo extra
+- Melhoria no intertravamento da execução do RecuaResto
+- Reset das credenciais wifimanager ultilizando recursos da biblioteca wifi manager
 
 ### 🔄 Versão 3.2.0.10
 - Envio de localização através do wifi para a awsiot
