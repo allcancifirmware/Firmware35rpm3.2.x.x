@@ -12,6 +12,7 @@
 - Interrupção imadiata no meio do recruo extra
 - Melhoria no intertravamento da execução do RecuaResto
 - Reset das credenciais wifimanager ultilizando o método wm.resetSettings();
+- 
 
 ### 🔄 Versão 3.2.0.10
 - Envio de localização através do wifi para a awsiot
