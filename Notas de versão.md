@@ -1,5 +1,5 @@
 ## FOWIFI3 35 RPM
-**Versão Atual:** 3.2.10
+**Versão Atual:** 3.2.11
 
 ## 📌 Descrição
 [a definir]
