@@ -5,6 +5,11 @@
 [a definir]
 
 ## 📋 Changelog
+### 🔄 Versão 3.2.0.12
+- Enviando para o tópico conectado no wifi ou com ethernet
+- Remoção do alerta de nivel baixo , aparece o alerta apenas de for nivel crítico
+
+## 📋 Changelog
 ### 🔄 Versão 3.2.0.11
 - Atualização OTA via internet cabeada ( Ethernet )
 - Envio do tipo de conexão se Wifi ou Cabo Ethernet
