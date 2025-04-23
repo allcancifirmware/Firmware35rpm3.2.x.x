@@ -8,6 +8,8 @@
 ### 🔄 Versão 3.2.0.12
 - Enviando para o tópico conectado no wifi ou com ethernet
 - Remoção do alerta de nivel baixo , aparece o alerta apenas de for nivel crítico
+- Resolvido o travamento do esp32 ao se reconectar na internet com o cabo Ethernet
+
 
 ## 📋 Changelog
 ### 🔄 Versão 3.2.0.11
@@ -17,7 +19,7 @@
 - Interrupção imadiata no meio do recruo extra
 - Melhoria no intertravamento da execução do RecuaResto
 - Reset das credenciais wifimanager ultilizando o método wm.resetSettings();
-- 
+- Atualização de firmware via cabo Ethernet
 
 ### 🔄 Versão 3.2.0.10
 - Envio de localização através do wifi para a awsiot
