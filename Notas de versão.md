@@ -10,6 +10,7 @@
 - Enviando para o tópico conectado no wifi ou com ethernet
 - Remoção do alerta de nivel baixo , aparece o alerta apenas de for nivel crítico
 - Resolvido o travamento do esp32 ao se reconectar na internet com o cabo Ethernet
+- Desconexão automática do wifi se houver conexão ethernet.
 
 ### 🔄 Versão 3.2.0.11
 - Atualização OTA via internet cabeada ( Ethernet )
