@@ -5,6 +5,10 @@
 [a definir]
 
 ## 📋 Changelog
+### 🔄 Versão 3.2.0.13
+- Resolvido travamento ao retirar o cabo do modulo rj45
+- Tela de monitoramento das boias.
+- Melhoria do desempenho na troca de conexão de ethernet|Wifi
 
 ### 🔄 Versão 3.2.0.12
 - Enviando para o tópico conectado no wifi ou com ethernet
