@@ -5,6 +5,10 @@
 [a definir]
 
 ## 📋 Changelog
+### 🔄 Versão 3.2.0.14
+- Melhoria estabilidade de envio de dados via Ethernet
+- 
+
 ### 🔄 Versão 3.2.0.13
 - Resolvido travamento ao retirar o cabo do modulo rj45
 - Tela de monitoramento das boias.
