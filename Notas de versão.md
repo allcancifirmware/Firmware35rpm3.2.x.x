@@ -1,13 +1,15 @@
 ## FOWIFI3 35 RPM
-**Versão Atual:** 3.2.11
+**Versão Atual:** 3.2.14
 
 ## 📌 Descrição
 [a definir]
 
 ## 📋 Changelog
 ### 🔄 Versão 3.2.0.14
-- Melhoria estabilidade de envio de dados via Ethernet
+- Melhoria estabilidade de envio de dados via Ethernet.
 - Busca de horas e minutos mais leve , uma função de busca multifuncional para wifi e para ethernet.
+- Redução do tempo de recuo , lento 10s rápido , 30s.
+- Redução tempo recua resto (1° etapa lento 10s, rápido 5s) (2° etapa lento 8s, rápido 5s).
 
 ### 🔄 Versão 3.2.0.13
 - Resolvido travamento ao retirar o cabo do modulo rj45
