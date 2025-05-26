@@ -10,6 +10,7 @@
 - Busca de horas e minutos mais leve , uma função de busca multifuncional para wifi e para ethernet.
 - Redução do tempo de recuo , lento 10s rápido , 30s.
 - Redução tempo recua resto (1° etapa lento 10s, rápido 5s) (2° etapa lento 8s, rápido 5s).
+- mudanda do display de kb para porecentagem na atualização
 
 ### 🔄 Versão 3.2.0.13
 - Resolvido travamento ao retirar o cabo do modulo rj45
