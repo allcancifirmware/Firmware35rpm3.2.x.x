@@ -5,6 +5,9 @@
 [a definir]
 
 ## 📋 Changelog
+### 🔄 Versão 3.2.0.16
+- Melhoria na estabilidade de atualização via Wifi. 
+- Correção de bug no salvamento de credenciais Wifi pelo Wifi Manager.
 ### 🔄 Versão 3.2.0.15
 - Eliminação da função Recua Resto
 - Na função Limpeza, aparece primeiro a ultima cor que ocorreu injeção. Por padrão, continua em azul. 
