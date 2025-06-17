@@ -1,8 +1,5 @@
 ## MÁQUINA FILL 35 RPM COM RJ45  **Versão Atual:** 3.2.16
-## 📌 Descrição
-[a definir]
-
-## 📋 Changelog
+## 📋 Histórico de mudanças
 ### 🔄 Versão 3.2.0.16
 - Melhoria na estabilidade de atualização via Wifi. 
 - Correção de bug no salvamento de credenciais Wifi pelo Wifi Manager.
