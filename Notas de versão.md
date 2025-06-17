@@ -1,32 +1,32 @@
 ## MÁQUINA FILL 35 RPM RJ45 | **Versão Atual:** 3.2.16
 ## 📋 Histórico de mudanças
-### 🔄 Versão 3.2.0.16
+### 🔄 Versão 3.2.16
 - Melhoria na estabilidade de atualização via Wifi. 
 - Correção de bug no salvamento de credenciais Wifi pelo Wifi Manager.
-### 🔄 Versão 3.2.0.15
+### 🔄 Versão 3.2.15
 - Eliminação da função Recua Resto
 - Na função Limpeza, aparece primeiro a ultima cor que ocorreu injeção. Por padrão, continua em azul. 
 - Função de ativar / desativar wifi aprimorada.
 - Envia dados a cada injeção.  
-### 🔄 Versão 3.2.0.14
+### 🔄 Versão 3.2.14
 - Melhoria estabilidade de envio de dados via Ethernet.
 - Busca de horas e minutos mais leve , uma função de busca multifuncional para wifi e para ethernet.
 - Redução do tempo de recuo , lento 10s rápido , 30s.
 - Redução tempo recua resto (1° etapa lento 10s, rápido 5s) (2° etapa lento 8s, rápido 5s).
 - mudança do display de kb para porecentagem na atualização
 
-### 🔄 Versão 3.2.0.13
+### 🔄 Versão 3.2.13
 - Resolvido travamento ao retirar o cabo do modulo rj45
 - Tela de monitoramento das boias.
 - Melhoria do desempenho na troca de conexão de ethernet|Wifi
 
-### 🔄 Versão 3.2.0.12
+### 🔄 Versão 3.2.12
 - Enviando para o tópico conectado no wifi ou com ethernet
 - Remoção do alerta de nivel baixo , aparece o alerta apenas de for nivel crítico
 - Resolvido o travamento do esp32 ao se reconectar na internet com o cabo Ethernet
 - Desconexão automática do wifi se houver conexão ethernet.
 
-### 🔄 Versão 3.2.0.11
+### 🔄 Versão 3.2.11
 - Atualização OTA via internet cabeada ( Ethernet )
 - Envio do tipo de conexão se Wifi ou Cabo Ethernet
 - Barra de carregamento da atualização.
@@ -35,7 +35,7 @@
 - Reset das credenciais wifimanager ultilizando o método wm.resetSettings();
 - Atualização de firmware via cabo Ethernet
 
-### 🔄 Versão 3.2.0.10
+### 🔄 Versão 3.2.10
 - Envio de localização através do wifi para a awsiot
 - Envio de dados para aws com ethernet conectado
 
