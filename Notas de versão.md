@@ -1,4 +1,4 @@
-## MÁQUINA FILL 35 RPM COM RJ45  **Versão Atual:** 3.2.16
+## MÁQUINA FILL 35 RPM RJ45 | **Versão Atual:** 3.2.16
 ## 📋 Histórico de mudanças
 ### 🔄 Versão 3.2.0.16
 - Melhoria na estabilidade de atualização via Wifi. 
