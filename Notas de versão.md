@@ -1,6 +1,4 @@
-## FOWIFI3 35 RPM
-**Versão Atual:** 3.2.15
-
+## MÁQUINA FILL 35 RPM COM RJ45  **Versão Atual:** 3.2.16
 ## 📌 Descrição
 [a definir]
 
