@@ -1,16 +1,21 @@
 ## MÁQUINA FILL 35 RPM RJ45 | **Versão Atual:** 3.2.16
 ## 📋 Histórico de mudanças
 
+### 🔄 Versão 3.2.17
+- remoção do lixo de memória do estado da boia vermelha 
+
 ### 🔄 Versão 3.2.16
 - reinicio automatico de 24 em 24 horas
 - atualização automática
 - Melhoria na estabilidade de atualização via Wifi. 
 - Correção de bug no salvamento de credenciais Wifi pelo Wifi Manager.
+- 
 ### 🔄 Versão 3.2.15
 - Eliminação da função Recua Resto
 - Na função Limpeza, aparece primeiro a ultima cor que ocorreu injeção. Por padrão, continua em azul. 
 - Função de ativar / desativar wifi aprimorada.
-- Envia dados a cada injeção.  
+- Envia dados a cada injeção.
+-   
 ### 🔄 Versão 3.2.14
 - Melhoria estabilidade de envio de dados via Ethernet.
 - Busca de horas e minutos mais leve , uma função de busca multifuncional para wifi e para ethernet.
