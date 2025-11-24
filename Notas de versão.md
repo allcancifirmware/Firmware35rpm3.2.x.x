@@ -1,4 +1,4 @@
-## MÁQUINA FILL 35 RPM RJ45 | **Versão Atual:** 3.2.16
+## MÁQUINA FILL 35 RPM RJ45 | **Versão Atual:** 3.2.16 | HW: 4.4 ou 4.5 amd
 ## 📋 Histórico de mudanças
 
 ### 🔄 Versão 3.2.17
